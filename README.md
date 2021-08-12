@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Hiroshi85
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Hiroshi85. Currently I study Systems Engineering in National University of Trujillo.
+- 👀 I’m interested in app developmente and backend development. I'm looking forward to learning DevOps stuff too.
+- 🌱 I’m currently learning basic Dart language.
+
+<!--
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me:
+-->
 
 <!---
 Hiroshi85/Hiroshi85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
