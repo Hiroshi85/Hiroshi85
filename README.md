@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hiroshi85. Currently I study Systems Engineering in National University of Trujillo.
+- 👋 Hi, I’m @Hiroshi85. Currently I study Systems Engineering in the National University of Trujillo.
 - 👀 I’m interested in app developmente and backend development. I'm looking forward to learning DevOps stuff too.
 - 🌱 I’m currently learning basic Dart language.
 
