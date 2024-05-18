@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hiroshi85. Currently I study Systems Engineering at the National University of Trujillo.
-- 👀 I’m interested in app development and backend development. I'm looking forward to learning DevOps stuff too.
+- 👀 I’m interested in backend development and cybersecurity. I'm looking forward to learning DevOps stuff too.
 
 <!--
 - 💞️ I’m looking to collaborate on 
